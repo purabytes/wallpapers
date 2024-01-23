@@ -1,2 +1,7 @@
-# wallpapers
-Set of wallpapers I use
+# How to
+
+To clone these wallpapers and put them in the wallpapers folder, execute the below command:
+
+```unix
+git clone https://github.com/purabytes/wallpapers.git $HOME/Pictures
+```
